@@ -1,5 +1,6 @@
 # LRU-Cache-Implementation
 This project demonstrates your expertise in Data Structures &amp; Algorithms (DSA) and Object-Oriented Programming (OOPs) by implementing an LRU (Least Recently Used) Cache using a Doubly Linked List and a HashMap
+
 📜 CACHE_INTRO
 Caching is a technique to store frequently accessed data in a fast-access storage layer.
 It speeds up data retrieval by reducing redundant computations and database queries.
@@ -13,6 +14,8 @@ Types of caching:
 1. In-memory caching (Redis, Memcached)
 2. CPU caches (L1, L2, L3)
 3. Application-level caching (CDNs, local storage)
+
+
 📜 IN_MEMORY_CACHE
 In-memory caching stores data in RAM for fast access.
 
@@ -29,6 +32,8 @@ Memcached:
 Redis vs Memcached:
 - Redis supports data persistence; Memcached does not.
 - Redis supports complex data types; Memcached only key-value pairs.
+
+  
 📜 CACHE_MEMORY
 Cache memory is a high-speed storage layer in a computer system that stores frequently accessed data.
 
@@ -41,6 +46,8 @@ Benefits:
 - Reduces CPU access time.
 - Speeds up execution of frequently used instructions.
 - Improves overall system performance.
+
+  
 📜 REPLACEMENT_STRATEGIES
 Cache replacement strategies determine how old data is removed when the cache is full.
 
